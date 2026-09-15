@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.zaad.admin"
+        applicationId = "com.zaad.admin2"
         minSdk = 24
         targetSdk = 35
         versionCode = 2
